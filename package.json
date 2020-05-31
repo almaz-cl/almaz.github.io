@@ -1,0 +1,21 @@
+{
+  "name": "almaz",
+  "private": true,
+  "scripts": {
+    "build": "gridsome build",
+    "develop": "gridsome develop",
+    "explore": "gridsome explore"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.7.6",
+    "gridsome": "^0.7.0",
+    "gridsome-plugin-pug": "^0.0.3",
+    "hooper": "^0.3.4",
+    "oswald": "^1.0.0",
+    "pug": "^2.0.4",
+    "tailwindcss": "^1.4.5",
+    "typeface": "^0.0.0",
+    "typeface-oswald": "^1.1.4",
+    "typeface-roboto": "^0.0.75"
+  }
+}

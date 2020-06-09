@@ -20,7 +20,7 @@ const postcssPlugins = [
 module.exports = {
   siteName: 'Almaz Belly Dance',
   siteDescription: 'Academia De Danza Oriental Almaz Nur',
-
+  pathPrefix: 'almaz.github.io',
   plugins: [
     {
       use: 'gridsome-plugin-pug',

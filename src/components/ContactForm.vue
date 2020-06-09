@@ -1,6 +1,6 @@
 <template lang="pug">
     div
-        .p-5.shadow-inner.md_py-64.md_px-24(style="background:url('../images/dancing.jpg') center center no-repeat;background-size:cover;background-position:fixed; ")
+        .p-5.shadow-inner.md_py-64.md_px-24(style="background:url('/images/dancing.jpg') center center no-repeat;background-size:cover;background-position:fixed; ")
                 .grid-cols-2.gap-10.py-10.items-center(class="md_flex md_grid")
                     div
                         h2.text-5xl Contáctanos

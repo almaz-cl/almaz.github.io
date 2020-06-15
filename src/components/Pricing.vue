@@ -3,10 +3,16 @@
       section.bg-c1
         .container.max-w-full.mx-auto.py-24.px-6.text-white
           h2.text-center.text-4xl Planes y precios
-          p.text-center.text-lg.mt-2.px-6 Todas las clases incluyen: Técnica, Secuencias coreográfícas, estudio y repaso de ritmología, elementos aplicados a la danza y música.
-          p.text-center.text-lg.mt-2.px-6 Tareas y reuniones  semanales como método de seguimiento.
+          p.text-center.text-lg.mt-2.px-6 Todas las clases se realizan por Facebook Live grupos Privados
 
-          .h-1.mx-auto.bg-indigo-200.w-24.opacity-75.mt-4.rounded
+          .md_grid.grid-cols-2.gap-10.md_mx-32
+            div
+              p.text-md.mt-2.px-6  💎 Técnica y Combinaciones coreográficas
+              p.text-md.mt-2.px-6  💎 Elementos aplicados a la danza
+              p.text-md.mt-2.px-6  💎 Estudio de Ritmologia
+            div
+              p.text-md.mt-2.px-6  💎 Enviamos la música correspondiente
+              p.text-md.mt-2.px-6  💎 Tareas semanales como método de seguimiento y correcciónes
 
           .max-w-full.mx-auto.my-3(class="md_max-w-6xl md_px-8")
             .relative.block.flex.flex-col.items-center(class="md_flex-row")
@@ -19,7 +25,7 @@
                   h1.text-lg.font-medium.uppercase.p-3.pb-0.text-center.tracking-wide
                     | Nivel Intermedio
                   h2.text-sm.text-gray-500.text-center.pb-6
-                    span.text-3xl $20.000
+                    span.text-3xl $25usd
                     |  /mes
                   p.text-center La clase favorita de muchas estudiantes! Exploramos nuevos pasos y se domina el ritmo y la danza
 
@@ -34,7 +40,7 @@
                     h1.text-lg.font-medium.uppercase.p-3.pb-0.text-center.tracking-wide
                       | Nivel Básico
                     h2.text-sm.text-gray-500.text-center.pb-6
-                        span.text-3xl $14.000
+                        span.text-3xl $18usd
                             |  /mes
                     p.text-center Para familiarizarse con la danza
 
@@ -49,7 +55,7 @@
                     h1.text-lg.font-medium.uppercase.p-3.pb-0.text-center.tracking-wide
                       | Nivel Avanzado
                     h2.text-sm.text-gray-500.text-center.pb-6
-                        span.text-3xl $20.000
+                        span.text-3xl $25usd
                         |  /mes
                     p.text-center La oportunidad de aprender muchos nuevos pasos y perfeccionar la danza
 

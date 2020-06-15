@@ -5,7 +5,7 @@
         .container.mx-auto
             .md_grid.grid-cols-2.gap-0.md_flex.items-center
                 div.text-center
-                    h1.leading-none.text-6xl.border-b-2.inline-block.pb-2.mb-2 Almaz Belly <br>Dance Studio
+                    h1.leading-none.text-6xl.border-b-2.inline-block.pb-2.mb-2 Almaz Oriental <br>Dance Studio
                     p.uppercase Academia de Danza de Primer Nivel
 
                 div
@@ -20,7 +20,7 @@
 
             h3.text-xl.mt-10 Bienvenidos a Academia de Danza Oriental Almaz Nur, fundada el 2 de marzo del año 2016.
             p Desde nuestro ambiente hasta nuestros salones de baile, todo fue planeado con el fin de brindarles a nuestros alumnos y alumnas  la mejor experiencia posible.
-            p Vèn a aprender con nosotros de èsta magica y hermosa danza milenaria en clasesdanzaoriental.cl, que te transportarà a tiempos ancestrales .
+            p Vèn a aprender con nosotros de èsta magica y hermosa danza milenaria en danzaoriental.cl, que te transportará a tiempos ancestrales .
             p Todos nuestros instructores son amables y están certificados para impartir lecciones de danza para todos los niveles. Ya sea que desees enfocarte en técnica, flexibilidad, o que sólo quieras ejercitarte de forma divertida, aquí puedes hacerlo. Revisa nuestro sitio para conocer más y no dudes en contactarnos si tienes alguna pregunta.
 
 
@@ -30,21 +30,29 @@
                 h2.text-4xl.uppercase Nuestros cursos
                 h3.text-xl Únete a nuestra comunidad de baile
 
+                h4.text-bold Ritmologia
+                p Dum? Tak?.... Te suenan familiares?
+                p Sabemos lo importante que es el estudio de los ritmos en la música oriental y más aún aplicarlos  a la danza, es por ello que en todos nuestros cursos es de vital importancia que los conozcas, desde los más básicos hasta los más complejos! Quieres saber más? No dudes en contactarnos
+
+
+
             .md_grid.grid-cols-3.gap-0.mt-24(style="background-image:url('./images/bg-2.svg');background-size:9%;")
+                article.basic.p-10
+                    h3.text-2xl Nivel Básico
+                    p Si siempre has querido aprender a mover tus caderas y no habías tenido tiempo de hacerlo, éste curso es para ti!
+                    p Comenzamos desde 0 para que aprendas con una buena base a bailar y a sentirte cómoda haciéndolo. Desde ritmos musicales, combinaciones, técnica y pasos básicos.
+
                 article.intermediate.p-10
                     h3.text-2xl Nivel Intermedio
                     p ¡Todos de pie!
-                    p Ya sea que desees aprender nuevos pasos de baile o desarrollar tu talento, esta clase es lo que necesitas. Los instructores se comprometen a darle atención especial a cada estudiante y al mismo tiempo hacer avanzar al grupo. Con gusto responderemos cualquier duda que tengas sobre esta o cualquier otra clase ; ¡visítanos o contáctanos!
-
-                article.rhythmology.p-10
-                    h3.text-2xl Ritmología
-                    p ¡A movernos!
-                    p Esta es la clase favorita de muchos estudiantes. Todos disfrutan la oportunidad de explorar los nuevos pasos de baile, y de dominar la ritmologìa acompañada a la danza. Nuestros maravillosos instructores se aseguran de que todos reciban atención individual sin que la clase deje ser para todos. ¿Quieres saber más? Contáctanos ya.
+                    p Ya sea que desees aprender nuevos pasos de danza o desarrollar tu talento, esta clase es lo que necesitas. Estamos comprometidos  a darle atención especial a cada uno de nuestros alumnos y Alumnas, de tal manera que podamos avanzar como grupo.
 
                 article.advanced.p-10
                     h3.text-2xl Nivel Avanzado
                     p ¡Arriba y a moverse!
-                    p Este curso te tendrá moviéndote en seguida. Muchos de nuestros bailarines disfrutan tomar esta clase, ya que les da la oportunidad de aprender nuevos pasos y de perfeccionar su danza . ¿Quieres saber más? Ponte en contacto con un miembro de nuestro equipo y con gusto te responderemos cualquier duda.
+                    p Este curso está especialmente enfocado a bailarinas y/o alumnas con 2 o más años de experiencia en la danza oriental, si quieres perfeccionar tu técnica, agilidad y desafiarte clase a clase este curso es para ti! Nos enfocamos en reforzar la técnica, el uso de elementos y combinaciones coreográficas más complejas....Una excelente manera de seguir creciendo!
+                    p Te Esperamos  en clases!
+
 
 
 
@@ -56,8 +64,8 @@
             .md_grid.grid-cols-2.md_flex.items-center(style="background-image:url('./images/bg-2.svg');background-size:10%;")
                 div
                     .container.mx-auto.p-10
-                        p.mb-5 La misión de clasesdanzaoriental.cl es ofrecerle a los alumnos de todos los niveles no sólo clases de danza, sino también diversas experiencias con las que los estudiantes puedan crecer mental y físicamente como bailarines. Nuestros maestros tienen diversas certificaciones y vasta experiencia para enseñar y mostrar distintos estilos y disciplinas.
-                        p En clasesdanzaoriental.cl nos apasiona la danza y ayudar a otros a liberar el bailarín que llevan dentro. ¿Listos para mover el cuerpo? Contáctanos para obtener más información de nuestro estudio.
+                        p.mb-5 La misión de danzaoriental.cl es ofrecerle a los alumnos de todos los niveles no sólo clases de danza, sino también diversas experiencias con las que los estudiantes puedan crecer mental y físicamente como bailarines. Nuestra maestra y profesoras tienen diversas certificaciones y vasta experiencia para enseñar y mostrar distintos estilos y disciplinas.
+                        p En danzaoriental.cl nos apasiona la danza y ayudar a otros a liberar el bailarín que llevan dentro. ¿Listos para mover el cuerpo? Contáctanos para obtener más información de nuestro estudio.
                 div
                     Slider
 

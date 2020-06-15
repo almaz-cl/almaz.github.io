@@ -18,7 +18,7 @@ const postcssPlugins = [
 
 
 module.exports = {
-  siteName: 'Almaz Belly Dance',
+  siteName: 'Almaz Oriental Dance Studio',
   siteDescription: 'Academia De Danza Oriental Almaz Nur',
   pathPrefix: 'almaz.github.io',
   plugins: [

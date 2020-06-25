@@ -25,8 +25,10 @@
                   h1.text-lg.font-medium.uppercase.p-3.pb-0.text-center.tracking-wide
                     | Nivel Intermedio
                   h2.text-sm.text-gray-500.text-center.pb-6
-                    span.text-3xl $25usd
+                    span.text-3xl $20.000
                     |  /mes
+                    br
+                    span ($25usd)
                   p.text-center La clase favorita de muchas estudiantes! Exploramos nuevos pasos y se domina el ritmo y la danza
 
                   .block.flex.items-center.p-8.text-center
@@ -40,8 +42,10 @@
                     h1.text-lg.font-medium.uppercase.p-3.pb-0.text-center.tracking-wide
                       | Nivel Básico
                     h2.text-sm.text-gray-500.text-center.pb-6
-                        span.text-3xl $18usd
-                            |  /mes
+                        span.text-3xl $14.000
+                        |  /mes
+                        br
+                        span ($16usd)
                     p.text-center Para familiarizarse con la danza
 
                   .block.flex.items-center.p-8.text-center
@@ -55,8 +59,10 @@
                     h1.text-lg.font-medium.uppercase.p-3.pb-0.text-center.tracking-wide
                       | Nivel Avanzado
                     h2.text-sm.text-gray-500.text-center.pb-6
-                        span.text-3xl $25usd
+                        span.text-3xl $20.000
                         |  /mes
+                        br
+                        span ($25usd)
                     p.text-center La oportunidad de aprender muchos nuevos pasos y perfeccionar la danza
 
 

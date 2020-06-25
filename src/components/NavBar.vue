@@ -1,7 +1,8 @@
 <template lang="pug">
     header.flex.flex-wrap.items-center.pt-5.px-5
       .flex-1.flex.justify-between.items-center
-        g-link( to="/" ) {{ $static.metadata.siteName }}
+        g-link( to="/" )
+            img(src="images/logo-academia.svg" title="$static.metadata.siteName" width="250")
 
       label.pointer-cursor.block(for="menu-toggle" class="lg_hidden")
         svg.hamburger.fill-current.text-gray-100(xmlns="http_//www.w3.org/2000/svg" width="20" height="20" viewbox="0 0 20 20")

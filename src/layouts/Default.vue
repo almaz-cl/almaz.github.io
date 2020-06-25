@@ -3,7 +3,7 @@
     <header class="header container mx-auto">
       <NavBar/>
     </header>
-    <hr class="border-b-1 my-6">
+    <hr class="border-b-1 mb-6">
     <main>
     <slot/>
     </main>
